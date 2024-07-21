@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://modradergo.github.io/sitemap
+Sitemap: https://modradergo.github.io/app/sitemap
+Sitemap: https://modradergo.github.io/assets/sitemap
+Sitemap: https://modradergo.github.io/css/sitemap
+Sitemap: https://modradergo.github.io/includes/sitemap
+Sitemap: https://modradergo.github.io/item/sitemap
+Sitemap: https://modradergo.github.io/src/sitemap
